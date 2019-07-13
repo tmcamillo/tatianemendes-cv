@@ -1,3 +1,3 @@
 # cv
 
-If your browser does not support PDFs, please download the file to read it:[Download PDF](https://github.com/tmcamillo/tatianemendes-cv/blob/master/files/TatianeMendes-CV.pdf)
+Caso seu browser não suporte arquivos PDFs, faça o download do arquivo para leitura por aqui:[Download PDF](https://github.com/tmcamillo/tatianemendes-cv/blob/master/files/TatianeMendes_CV.pdf)
